@@ -1,0 +1,2 @@
+Git ir versiju kontroles sistēma.
+Versiju kontrole ir svarīga projektu izstrādē, jo tas palīdz sēkot līdzi un kontrolēt izmaiņas un var viegli atgriezties iepriekšējā versijā ja ir vajadzīgi.
